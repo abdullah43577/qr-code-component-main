@@ -11,11 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/abdullah43577/qr-code-component-main)
+- Live Site URL: [live site URL here](https://qrcodescaner.netlify.app/)
 
 ## My process
 
@@ -42,6 +38,6 @@ Desktop-first workflow
 
 ## Author
 
-- Website - [Abdullah Ayoola](https://www.your-site.com)
+- Website - [Abdullah Ayoola](https://github.com/abdullah43577)
 - Frontend Mentor - [@abdullah43577](https://www.frontendmentor.io/profile/abdullah43577)
 - Twitter - [@officialayo540](https://twitter.com/officialayo540)
